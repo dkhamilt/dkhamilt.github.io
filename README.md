@@ -1,6 +1,6 @@
 # dkhamilt.github.io
 # Dexter Hamilton's User Page
-![Portrait](portrait.jpg).
+![Portrait](portrait.jpg | width=200).
 
 ### Favorites
 My favorite programming language is **C**
