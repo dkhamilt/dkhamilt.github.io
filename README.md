@@ -16,10 +16,13 @@ git commit -m "Update readme file"
 
 I can list the links I think I've linked
 - I can [link](xkcd.com)
-- I can [section link]
+- I can [section link](https://github.com/dkhamilt/dkhamilt.github.io#dexter-hamiltons-user-page)
 - I can [relative link](_config.yml)
 
 ### TODO 1/8/2021
+
 -[x] Individual Engineer Statement
+
 -[x] Set Up Git
+
 -[x] Finish Lab 1
