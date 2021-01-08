@@ -1,5 +1,6 @@
 # dkhamilt.github.io
 # Dexter Hamilton's User Page
+![Portrait](portrait).
 
 ### Favorites
 My favorite programming language is **C**
@@ -21,8 +22,8 @@ I can list the links I think I've linked
 
 ### TODO 1/8/2021
 
--[x] Individual Engineer Statement
+- [x] Individual Engineer Statement
 
--[x] Set Up Git
+- [x] Set Up Git
 
--[x] Finish Lab 1
+- [x] Finish Lab 1
